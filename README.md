@@ -53,6 +53,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https
 
 ## Autor
 
+O Front-end e o Back-end foram criados pela Alura para fins de aprendizado.
+
 - GitHub - [Melksedeque Silva](https://github.com/Melksedeque/)
 - FrontEndMentor - [@Melksedeque](https://www.frontendmentor.io/profile/Melksedeque)
 - Twitter / X - [@SouzaMelk](https://x.com/SouzaMelk)
